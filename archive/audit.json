@@ -1,0 +1,38 @@
+{
+  "frozen": 4,
+  "rounds": 10,
+  "unique_runs": 6060,
+  "call_distribution": {
+    "3": 6060
+  },
+  "counts": {
+    "all": {
+      "correct": 4672,
+      "n": 6060,
+      "fbcorrect": 3127,
+      "nfb": 3920
+    },
+    "train": {
+      "correct": 2531,
+      "n": 3260,
+      "fbcorrect": 1706,
+      "nfb": 2124
+    },
+    "test": {
+      "correct": 2141,
+      "n": 2800,
+      "fbcorrect": 1421,
+      "nfb": 1796
+    }
+  },
+  "test_difference_vs_picture_cluster_bootstrap_95": {
+    "all": [
+      14.79739507959479,
+      20.23489932885906
+    ],
+    "fb": [
+      21.436058700209642,
+      29.156626506024097
+    ]
+  }
+}

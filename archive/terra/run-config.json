@@ -1,0 +1,82 @@
+[
+  {
+    "round": 1,
+    "model": "gpt-6.1-terra",
+    "provider": "openai",
+    "reasoning effort": "high",
+    "sandbox": "read-only",
+    "cli": "OpenAI Codex v0.169.0-alpha.11.1"
+  },
+  {
+    "round": 2,
+    "model": "gpt-6.1-terra",
+    "provider": "openai",
+    "reasoning effort": "high",
+    "sandbox": "read-only",
+    "cli": "OpenAI Codex v0.169.0-alpha.11.1"
+  },
+  {
+    "round": 3,
+    "model": "gpt-6.1-terra",
+    "provider": "openai",
+    "reasoning effort": "high",
+    "sandbox": "read-only",
+    "cli": "OpenAI Codex v0.169.0-alpha.11.1"
+  },
+  {
+    "round": 4,
+    "model": "gpt-6.1-terra",
+    "provider": "openai",
+    "reasoning effort": "high",
+    "sandbox": "read-only",
+    "cli": "OpenAI Codex v0.169.0-alpha.11.1"
+  },
+  {
+    "round": 5,
+    "model": "gpt-6.1-terra",
+    "provider": "openai",
+    "reasoning effort": "high",
+    "sandbox": "read-only",
+    "cli": "OpenAI Codex v0.169.0-alpha.11.1"
+  },
+  {
+    "round": 6,
+    "model": "gpt-6.1-terra",
+    "provider": "openai",
+    "reasoning effort": "high",
+    "sandbox": "read-only",
+    "cli": "OpenAI Codex v0.169.0-alpha.11.1"
+  },
+  {
+    "round": 7,
+    "model": "gpt-6.1-terra",
+    "provider": "openai",
+    "reasoning effort": "high",
+    "sandbox": "read-only",
+    "cli": "OpenAI Codex v0.169.0-alpha.11.1"
+  },
+  {
+    "round": 8,
+    "model": "gpt-6.1-terra",
+    "provider": "openai",
+    "reasoning effort": "high",
+    "sandbox": "read-only",
+    "cli": "OpenAI Codex v0.169.0-alpha.11.1"
+  },
+  {
+    "round": 9,
+    "model": "gpt-6.1-terra",
+    "provider": "openai",
+    "reasoning effort": "high",
+    "sandbox": "read-only",
+    "cli": "OpenAI Codex v0.169.0-alpha.11.1"
+  },
+  {
+    "round": 10,
+    "model": "gpt-6.1-terra",
+    "provider": "openai",
+    "reasoning effort": "high",
+    "sandbox": "read-only",
+    "cli": "OpenAI Codex v0.169.0-alpha.11.1"
+  }
+]

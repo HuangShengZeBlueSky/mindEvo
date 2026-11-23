@@ -1,0 +1,21 @@
+20:10:21 round 1 parent 0
+retained 0 selection {'n': 150, 'all': 88, 'fb': 41, 'nfb': 99, 'calls': 300, 'tokens': 390749}
+20:11:50 round 2 parent 0
+retained 2 selection {'n': 150, 'all': 98, 'fb': 62, 'nfb': 99, 'calls': 450, 'tokens': 313141}
+20:13:35 round 3 parent 2
+retained 2 selection {'n': 150, 'all': 97, 'fb': 60, 'nfb': 99, 'calls': 450, 'tokens': 319592}
+20:15:23 round 4 parent 2
+retained 4 selection {'n': 150, 'all': 113, 'fb': 78, 'nfb': 99, 'calls': 450, 'tokens': 309594}
+20:17:01 round 5 parent 4
+retained 4 selection {'n': 150, 'all': 106, 'fb': 68, 'nfb': 99, 'calls': 450, 'tokens': 322338}
+20:18:40 round 6 parent 4
+retained 4 selection {'n': 150, 'all': 90, 'fb': 54, 'nfb': 99, 'calls': 450, 'tokens': 330430}
+20:20:34 round 7 parent 4
+retained 4 selection {'n': 150, 'all': 108, 'fb': 74, 'nfb': 99, 'calls': 450, 'tokens': 311345}
+20:22:19 round 8 parent 4
+retained 4 selection {'n': 150, 'all': 111, 'fb': 78, 'nfb': 99, 'calls': 450, 'tokens': 314825}
+20:24:23 round 9 parent 4
+retained 4 selection {'n': 150, 'all': 109, 'fb': 71, 'nfb': 99, 'calls': 450, 'tokens': 311464}
+20:26:07 round 10 parent 4
+retained 4 selection {'n': 150, 'all': 108, 'fb': 73, 'nfb': 99, 'calls': 450, 'tokens': 310005}
+COMPLETE 4

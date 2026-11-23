@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+node_modules/
+.env
+.env.*
+PICTURE复现/paired-1515-seed*.jsonl
+固定协议/results/*
+!固定协议/results/wiring.jsonl
+固定协议/plugins/round*.js
+!固定协议/plugins/round00.js
+在场场景核查/窗口配对重放.jsonl
